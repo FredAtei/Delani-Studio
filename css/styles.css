@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .landing{
   background-image: url('../images/delani-l.jpg');
   background-position: center center;
