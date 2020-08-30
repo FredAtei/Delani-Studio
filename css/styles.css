@@ -58,5 +58,21 @@
 }
 
 #about{
-  font-family: 'Gabriela', serif;
+  font-family: 'Alata', serif;
+}
+
+.services{
+  text-align: center;
+  background-image: url("../images/serv.jpg");
+  color: white;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Alata';font-size: 22px;
+}
+
+#servicesoverlay{
+  background-color: rgba(0,0,0,0.4);
+  padding-top: 10%;
+  padding-bottom: 10%;
 }
