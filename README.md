@@ -1,16 +1,15 @@
-# The Akan Name
+# Delani Studio
 <table>
 <tr>
 <td>
-This Website explores the ghananian way of naming Children. The user can add their birthday date, which then lets the site calculates the day of the week you were born and by also selecting your gender their Akan Name is determined.
+Delani Studio is a company consisting of software developers ready to work together to accomplish the consumers need. In this website, Delani Sttudio is describe more of what it is all about and an easier way to reach out to the group.
 </td>
 </tr>
 </table>
 
 
 ## Deploy
-Here is a working live demo : https://fredatei.github.io/Landing-p/
-
+Here is a working live demo : https://fredatei.github.io/Delani-Studio/
 ## BDD
 1. Where to start in the process:
 - 
@@ -42,9 +41,9 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/FredAtei/Landing-p/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://fredatei.github.io/Delani-Studio/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/FredAtei/Landing-p/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](hhttps://fredatei.github.io/Delani-Studio/issues/new). Please include sample queries and their corresponding results.
 
 
 ## Built with 
