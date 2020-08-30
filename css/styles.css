@@ -22,7 +22,7 @@
   margin-top: 12px;
   margin-bottom: 24px;
   width: 70px;
-  height: 70px;;
+  height: 70px;
 }
 
 #mouse-click{
@@ -46,4 +46,17 @@
   60% {
     transform: translateY(-45px);
   }
+}
+
+.about{
+  text-align: center;
+  padding-bottom: 30px;
+  padding-top:40px;
+  font-family: 'Alata', serif;
+  font-size: 25px;
+  background-color: #f0f8ff;
+}
+
+#about{
+  font-family: 'Gabriela', serif;
 }
