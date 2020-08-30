@@ -76,3 +76,13 @@
   padding-top: 10%;
   padding-bottom: 10%;
 }
+
+#Do{
+  font-family: 'Inconsolata', serif;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.Do .headings{
+  padding-bottom: 38px;
+}
