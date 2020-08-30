@@ -81,3 +81,19 @@ $(document).ready(function () {
   });
 });
 
+$(document).ready(function () {
+  $("form#formA").submit(function (event) {
+    // event.preventDefault();
+    var name = $("input#Jina").val();
+    var email = $("input#Mail").val();
+    var message = $("textarea#comment").val();
+    if ($("input#Jina").val() && $("input#Mail").val()) {
+      alert(name + ", we have received your message. Thank you for reaching out to us.");
+    }
+    else {
+      alert("Please enter your name and email!");
+    }
+
+  });
+
+});
