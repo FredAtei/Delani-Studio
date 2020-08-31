@@ -82,7 +82,7 @@ $(document).ready(function () {
 });
 
 $(document).ready(function () {
-  $("form#formA").submit(function (event) {
+  $("form#mc-embedded-subscribe-form").submit(function (event) {
     // event.preventDefault();
     var name = $("input#Jina").val();
     var email = $("input#Mail").val();
