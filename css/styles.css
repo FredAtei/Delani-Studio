@@ -120,7 +120,7 @@ html {
   font-family: 'Playfair Display', serif;
 }
 
-#contact{
+.contact{
   background-image: url('../images/contact.jpg');
   background-position: center center;
   background-size: cover;
@@ -133,7 +133,7 @@ html {
   padding: 6px;
 }
 
-#contact h2{
+.contact h2{
   text-align: center;
   margin-top: 30px;
   padding-top: 40px;
