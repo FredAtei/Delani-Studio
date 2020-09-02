@@ -53,14 +53,14 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - [Bootstrap](https://getbootstrap.com/) - Has a vast variety of CSS code that can is used by programmers to simply work load with its many styles waiting to be implimented to the work.
 - [JQuery](https://code.jquery.com/jquery/) - Has a vast variety of CSS code that can is used by programmers to simply work load with its many styles waiting to be implimented to the work
 
-## License
-[MIT] [LICENSE]
-
 ## Contact
 
 Reach Out: akamaatei@gmail.com
            0741259136.   
 
 ## Copyright
-
 © 2020
+
+## [License](https://github.com/FredAtei/Delani-Studio/blob/master/LICENSE)
+
+MIT © [Fred Atei ](https://github.com/FredAtei)
